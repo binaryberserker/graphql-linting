@@ -1,0 +1,6 @@
+{
+  "recommendations": [
+    // https://marketplace.visualstudio.com/items?itemName=apollographql.vscode-apollo
+    "apollographql.vscode-apollo"
+  ]
+}
